@@ -2,6 +2,7 @@
 
 ## Prerequisites
 - NodeJS
+- Google Chrome browser
 
 
 ## Installation
