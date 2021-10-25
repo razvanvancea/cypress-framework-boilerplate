@@ -11,18 +11,18 @@ npm install
 ```
 
 
-## Run Tests via CLI in headed mode
+### Run Tests via CLI in headed mode
 ```
 npm run test
 ```
 
-## Run Tests via CLI in headless mode
+### Run Tests via CLI in headless mode
 ```
 npm run test-headless
 ```
 
 
-## Open the Cypress Debugger Control Panel
+### Open the Cypress Debugger Control Panel
 ```
 npm run cypress-open 
 ```
