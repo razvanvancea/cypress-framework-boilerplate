@@ -3,14 +3,19 @@
 ## Prerequisites
 - NodeJS
 
+
 ## Installation
-```npm install
+```
+npm install
+```
+
+
+## Run Tests via CLI in headed mode
+```
+npm run test
 ```
 
 ## Run Tests via CLI in headless mode
-```npm run test-headless
 ```
-
-## Run Tests via CLI in headed mode
-```npm run test
+npm run test-headless
 ```
