@@ -20,3 +20,9 @@ npm run test
 ```
 npm run test-headless
 ```
+
+
+## Open the Cypress Debugger Control Panel
+```
+npm run cypress-open 
+```
