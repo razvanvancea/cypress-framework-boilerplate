@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --headed --browser chrome --spec 'cypress/integration/login.spec.js'",
-    "test-headless": "npx cypress run --headless --browser chrome --spec 'cypress/integration/login.spec.js'"
+    "test": "npx cypress run --headed --browser chrome --spec 'cypress/integration/register.spec.js'",
+    "test-headless": "npx cypress run --headless --browser chrome --spec 'cypress/integration/register.spec.js'"
   },
   "author": "RV",
   "license": "ISC",

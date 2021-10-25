@@ -1,0 +1,10 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "0788888787",
+    "country": "Romania",
+    "email": "iamqarv@gmail.com",
+    "password": "admin123",
+    "expectedSuccessResponse": "The account has been successfully created!"
+  }
+  
