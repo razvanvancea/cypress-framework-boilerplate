@@ -1,9 +1,10 @@
 {
-	"video": false,
-    "defaultCommandTimeout": 8000,
-    "pageLoadTimeout": 30000,
-    "retries": {
-      "runMode": 1,
-      "openMode": 1
-    }
+  "projectId": "euyib2",
+  "video": false,
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 30000,
+  "retries": {
+    "runMode": 1,
+    "openMode": 1
+  }
 }

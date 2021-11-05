@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npx cypress run --headed --browser chrome --spec 'cypress/integration/*.spec.js'",
     "test-headless": "npx cypress run --headless --browser chrome --spec 'cypress/integration/*.spec.js'",
+    "record": "npx cypress run --headless --record --key 39d4018a-ad65-4cd5-811c-6879173a1bf4 --browser chrome --spec 'cypress/integration/*.spec.js'",
     "cypress-open": "npx cypress open"
   },
   "author": "RV",
